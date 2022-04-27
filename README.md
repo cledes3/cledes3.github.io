@@ -8,6 +8,7 @@
 
 ## Twine Game
 
-[Link](https://twinery.org/2/#!/stories)
+[Link](index.html)
+
 
 
