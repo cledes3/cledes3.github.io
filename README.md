@@ -8,6 +8,6 @@
 
 ## Twine Game
 
-(SLUMP CHIZZ (3).html)
+[Link](SLUMP CHIZZ (3).html)
 
 
